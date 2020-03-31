@@ -46,6 +46,8 @@ main img {
   font-size: 18px;
   font-weight: bold;
   text-align: center;
+  padding-left: 100px;
+  max-width: 100px;
   padding-top: 70px;
   text-shadow: 0 0 4px black;
 }
